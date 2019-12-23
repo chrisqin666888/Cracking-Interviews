@@ -1,4 +1,4 @@
-package Backtracking.P46_Permutation_Medium_Medium;
+package Backtracking.P46_Permutation;
 import java.util.*;
 
 public class Solution {
