@@ -1,4 +1,4 @@
-package Graph_DFS.P322_Reconstruct_Array;
+package DFS_Graph.P322_Reconstruct_Itenerary;
 import java.util.*;
 
 public class Solution {
