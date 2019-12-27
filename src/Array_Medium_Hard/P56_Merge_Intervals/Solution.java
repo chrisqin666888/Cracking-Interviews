@@ -1,4 +1,4 @@
-package Sorting_Special.P56_Merge_Intervals;
+package Array_Medium_Hard.P56_Merge_Intervals;
 import java.util.*;
 
 public class Solution {
