@@ -60,4 +60,10 @@ public class Solution {
         }
         return sb.toString();
     }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        String input = "aabbc";
+        System.out.println(s.reorganizeString(input));
+    }
 }
