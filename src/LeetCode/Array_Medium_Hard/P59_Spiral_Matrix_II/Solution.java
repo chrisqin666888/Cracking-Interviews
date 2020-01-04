@@ -13,6 +13,8 @@ public class Solution {
         int colEnd = n-1;
         int num = 1;
 
+        System.out.println(spiral);
+
         while(rowBegin <= rowEnd && colBegin <= colEnd) {
             // Traverse Right
             for(int i = colBegin; i <= colEnd; i++) {
