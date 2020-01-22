@@ -28,4 +28,11 @@ public class Solution {
         map.put(s, res);
         return res;
     }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        String s = "catsanddog";
+        List<String> wordDict = Arrays.asList("cat","cats","and","sand","dog");
+        System.out.println(solution.wordBreak(s, wordDict));
+    }
 }
