@@ -26,4 +26,10 @@ public class Solution {
         }
         return key.toString();
     }
+
+    public static void main(String[] args) {
+        String[] input = {"abc","bcd","acef","xyz","az","ba","a","z"};
+        Solution solution = new Solution();
+        System.out.println(solution.groupStrings(input));
+    }
 }
